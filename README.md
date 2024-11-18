@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm @rtitaya, practicing Computational Art and Media Art with Processing and Max. 
+I'm @rtitaya, practicing Computational Art and Media Art with Processing and Max MSP Jitter. 
 <p></p>
 I'm learning Java, JavaScript, and Python. 
 <p></p>
