@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm @piyaratgit, practicing Computational Art with Processing. 
+I'm @rtitaya, practicing Computational Art and Media Art with Processing and Max. 
 <p></p>
 I'm learning Java, JavaScript, and Python. 
 <p></p>
